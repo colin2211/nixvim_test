@@ -15,6 +15,9 @@
         lua-ls = {
           enable = true;
         };
+        ols = {
+          enable = true;
+        };
         nil-ls = {
           enable = true;
         };
